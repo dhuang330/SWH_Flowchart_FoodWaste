@@ -1,0 +1,7 @@
+{
+  "name": "厨余水热解工艺流程",
+  "description": "A 3D-style industrial animation demonstrating the heat recovery and efficiency of the subcritical hydrolysis oxidation process.",
+  "requestFramePermissions": [
+    "display-capture"
+  ]
+}
